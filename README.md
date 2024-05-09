@@ -108,7 +108,7 @@ visualize_product_data(products)
 ```
 
 ### Output:
-![output]()
-![output]()
+![output](https://github.com/jhansi21005096/WDM_EXP8/blob/main/output8q.png)
+![output](https://github.com/jhansi21005096/WDM_EXP8/blob/main/output8b.png)
 ### Result:
 Thus, To perform Web Scraping on Amazon using (beautifulsoup) Python has been executed successfully.
